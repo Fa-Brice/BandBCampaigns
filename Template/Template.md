@@ -1,5 +1,5 @@
 # Title of the campaign -- Titre de la campagne
-### Author -- Auteur: [Fabrice Lambert - https://www.linkedin.com/in/lambertfabrice/](https://www.linkedin.com/in/lambertfabrice/)
+### Author -- Auteur: Fabrice Lambert [](https://www.linkedin.com/in/lambertfabrice/)
 #### EN: Campaign Summary
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo, tortor sed sollicitudin pulvinar, quam felis consectetur lorem, at faucibus purus libero non justo. In sit amet semper diam, in ultricies quam. Morbi aliquam vehicula arcu, in tempus ligula. Proin vehicula congue ipsum molestie hendrerit. Vestibulum eu consequat nunc. Maecenas nec elit aliquet, luctus eros ut, dictum lorem. Donec sed nibh non ipsum malesuada accumsan a vitae nisi. Praesent accumsan felis posuere mauris consectetur, at auctor justo pretium. Proin et lacinia nisi. Praesent ac feugiat magna. Aliquam at orci orci.
