@@ -1,5 +1,5 @@
 # Le ver est dans la pomme
-### Auteur : Fabrice Lambert - [![](64px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/lambertfabrice/)
+### Auteur : Fabrice Lambert - [![](16px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/lambertfabrice/)
 #### Résumé de la campagne
 
 On January 11th, 2021 Ubiquiti, a large IT networking vendor, announced they were aware of an unauthorized disclosure of customer data. This breach became one of the more interesting incident response stories of the year. Early portions of the investigation revealed sensitive data was downloaded from Ubiquiti cloud servers, specifically AWS and GitHub resources. The attacker then attempted to extort the organization demanding $2 million USD in blackmail to not release the data. The attempt at extortion failed, but the breach was only just getting interesting. 
